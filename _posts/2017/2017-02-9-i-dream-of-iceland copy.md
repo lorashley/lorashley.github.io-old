@@ -2,7 +2,7 @@
 layout: post
 title: I dream of Iceland
 categories: ['travel']
-tags: travel iceland adventure
+tags: travel iceland adventure featured
 comments: true
 image:
   feature: https://scontent.xx.fbcdn.net/v/t1.0-9/16195113_10208496405343272_4842128257955260307_n.jpg?oh=593634b051ea820869a6b94be52e2878&oe=590BCB63
