@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Lauren Ashley | Lifestyle, Travel, Rituals"
+title: "Lauren Ashley"
 description: > # this means to ignore newlines until "email:"
-   a little bit of everything
+   Lifestyle, Travel, Rituals
 
 email: lor.ashley@gmail.com
 #blog logo
