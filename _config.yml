@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: lor.ashley@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -51,6 +51,13 @@ social:
   - icon:	github
     url:	https://github.com/lorashley
     desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+    
+  - icon:	instagram
+    url:	https://instagram.com/pawsandwander
+    desc:	Follow me on IG
     share_url:
     share_title:
     share_link:
