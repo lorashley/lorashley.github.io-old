@@ -5,8 +5,7 @@ date: 2016-06-20T19:44:44.000Z
 category: ['recipe']
 tags: ['Hello Fresh', 'food', 'subscription', 'delivery service']
 comments: true
-image:
-  feature: https://c8.staticflickr.com/8/7429/27193233783_8e3aa39923_b.jpg
+image: https://c8.staticflickr.com/8/7429/27193233783_8e3aa39923_b.jpg
 ---
 
 HELLLLLOOOOO! I am so excited to write about our first experience with [Hello Fresh](www.hellofresh.com/raf-helloshare/?c=ZBGZY3)! 

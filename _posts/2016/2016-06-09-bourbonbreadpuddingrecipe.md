@@ -4,12 +4,11 @@ title: Bourbon Bread Pudding
 date: 2016-06-09T20:32:44.000Z
 category: ['food', 'recipe']
 tags: ['food', 'bread pudding', 'recipe', 'bourbon']
-image:
-  feature: https://scontent-ord1-1.cdninstagram.com/t51.2885-15/e15/13277817_143598346056233_865188154_n.jpg
+image: https://lh3.googleusercontent.com/VMLTYUh4tVobuhByPvDe6wsl67cO8TZHjWc1pzCh4xNdwCv4EW3yEmHdwURfqNDzbTPYfp1tRPOqYok5ZxqN_nSCwP0ZkBAd3QzsvJy6o7zLCbIhMn6v6moOQgwkZCRBzjUUe2uLh4c=w2400
 comments: true
 ---
 While briefly living in Raleigh, North Carolina, my husband and I had a few fantastic bread puddings. I know bread pudding isn't up
-everyone's alley - but it is DEFINITELY up our alley. While having brunch at a <a href="https://www.lafarmbakery.com/">french bistro</a> we 
+everyone's alley - but it is DEFINITELY up our alley. While having brunch at a [french bistro](https://www.lafarmbakery.com/) we 
 had an amazing blue crab bread pudding. Unfortunately, they change their menu frequently and I never saw it again. Le sigh. 
 The other one that resonated with us was a good ol' southern bourbon bread pudding from a local microbrew in Durham near the UNC campus. 
 We've dreamt about both since, but I have only recreated the latter. Here we go!
@@ -21,6 +20,9 @@ It was dabomb.com and I plan on making it for an upcoming summer social I'm havi
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BGSwZIHumqB/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Reminiscing on my time in North Carolina with some #homemade Bourbon Bread Pudding #noms #nickandloreats</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by L A U R E N (@trinidad.flames) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-06-06T00:33:48+00:00">Jun 5, 2016 at 5:33pm PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </center>
+
+The bourbon sauce we got <a href="http://www.foodnetwork.com/recipes/bread-pudding-with-southern-bourbon-sauce-recipe.html">on the food network</a> 
+and we adapted the bread pudding recipe to suit our needs from <a href="http://foodloveswriting.com/2010/01/08/here-is-what-you-do/">foodloveswriting</a>.
 
 # [Chocolate] Bourbon Bread Pudding Recipe
 
@@ -65,10 +67,6 @@ It was dabomb.com and I plan on making it for an upcoming summer social I'm havi
 3. Pour the butter and sugar over the egg  yolks, constantly whisking.
 4. Stir the bourbon in by hand. 
 5. Pour the bourbon sauce over the bread pudding and enjoy!
-
-The bourbon sauce we got <a href="http://www.foodnetwork.com/recipes/bread-pudding-with-southern-bourbon-sauce-recipe.html">on the food network</a> 
-and we adapted the bread pudding recipe to suit our needs from <a href="http://foodloveswriting.com/2010/01/08/here-is-what-you-do/">foodloveswriting</a>.
-
 
 xoxo,
 L

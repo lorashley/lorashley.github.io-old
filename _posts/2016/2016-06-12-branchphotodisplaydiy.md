@@ -6,8 +6,6 @@ category: ['project', 'diy']
 tags: ['branch', 'photo', 'display', 'instagram', 'ig', 'twine', 'decor', 'pictures']
 image: https://c7.staticflickr.com/8/7188/27360393270_518a40ce2e_k.jpg
 comments: true
-image:
-  feature: https://c1.staticflickr.com/8/7426/27603922736_005b6e5263_k.jpg
 ---
 
 So, I've wanted to display my IG pics from our travels and with our friends and I decided I wanted to use a branch to hang them all.

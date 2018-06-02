@@ -4,8 +4,7 @@ title: Guide to the perfect cheeseboard
 date: 2017-01-02T11:33:44.000Z
 categories: recipe
 tags: recipe
-image:
-  feature: https://s-media-cache-ak0.pinimg.com/564x/44/a2/9e/44a29ed64790a5081ad8a561f48c9a17.jpg
+image: https://lh3.googleusercontent.com/dU1arOGdHehzEZ1skGZLO1LM-YNgH_VH28KaIYgsE7LBQGVqlSxHnWk85a1TxC2aOtl6hjT7BQ9zH8qDF_uatp-S1FsyXJTHLH7hhN0yd_VEuFjV0F6pNG0d58DEKOQVkCol845GJBk=w2400
 comments: true
 ---
 
@@ -24,3 +23,5 @@ I think the popping contrast of blueberries and strawberries are my favorite.
 4. **Don't forget the toppings!**
 Hands down, fig jam makes our board half the time. Honey is also a great touch. For savory, I've seen
 mustards do well with meats.
+
+![Happy Eating](https://lh3.googleusercontent.com/dU1arOGdHehzEZ1skGZLO1LM-YNgH_VH28KaIYgsE7LBQGVqlSxHnWk85a1TxC2aOtl6hjT7BQ9zH8qDF_uatp-S1FsyXJTHLH7hhN0yd_VEuFjV0F6pNG0d58DEKOQVkCol845GJBk=w2400)
