@@ -24,6 +24,15 @@ layout: default
         {% endif %}
       {% endfor %}
       <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
+      {% if post.categories.size > 0 %}
+      •
+      {% for cat in post.categories %}
+        <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
+        {% unless forloop.last %}
+        <span>/</span>
+        {% endunless %}
+      {% endfor %}
+      {% endif %}
     </div>
 </header>
 
