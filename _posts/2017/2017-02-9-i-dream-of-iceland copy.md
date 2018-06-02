@@ -38,7 +38,7 @@ Exploring Reykjavik and the surrounding areas for day two. It may sound gross bu
 
 A little Icelandic lesson - the cold and warm water sources are different. The cold water is from the glacial runoff water, it is extremely clean so don't bother buying drinking water in Iceland. The warm water, comes from the geothermal waters which smell of the sulfur (rotten eggs!).
 
-Also, as far as Iceland cheap eats, nothing is cheap. Except, this hot dog, and it's a damn good one.
+Also, as far as city cheap eats, nothing is cheap. Except, this hot dog, and it's a damn good one.
 
 ![Icelandic Hot Dog](https://lh3.googleusercontent.com/eSf8xTpJE7jDwELbb3KgxJbz51dUNNNc2d4OVoqXlbWgG9iFeUu_zFcjLxSL_2R-nbBfWuUqMbU1Dd64eKATIagfaOHm7YPZ16FdhEcuaceWBbExL8glvCCvCb9yTvQJ2GH9E1JVciA=w2400)
 
