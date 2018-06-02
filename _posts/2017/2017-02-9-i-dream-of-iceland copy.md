@@ -4,7 +4,7 @@ title: I dream of Iceland
 categories: ['travel']
 tags: travel iceland adventure featured
 comments: true
-image: https://lh3.googleusercontent.com/Vxhv4CemPtAEBwf3NAgCY4aN4NGeVwTS-aju1Xcy5GXUd34LmQXMs6sXNNzAL7x8jypHdNAPUnwkT-o_h5Mde1Ort5FdYNm4YMYDnsfOmmJJx0JHVBN7w-Y1ck7TaiLZWFIIoinpPBg=w2400
+image: https://media.giphy.com/media/6Ivwz7DfPGNZhtGRLA/giphy.gif
 ---
 
 This may have been one of my favorite trips of all time. <!--more-->While the flights were cheap ($350 for 5 Days in London and 5 days in Iceland),
@@ -52,6 +52,7 @@ tour guide was so charming with his Icelandic tales. After a few hours we called
 With our next full day ahead we toured the Golden circle, visiting Gulfoss, the geysirs, and the volcanic crater lake Kerið. We planned on doing a hike in 
 Hveragerdi, but the weather was not on our side. We still drove through the hot spring town, which we would visit for sure in the summer. 
 Little did we know we would end up here again.
+
 ![Golden Circle](https://lh3.googleusercontent.com/99RgCfZGnMK6r5RnKjtgrocFdcjL7IUgshL-gxUOHTYMXEGW7FriM-PiMkunJqHs-QiBk0aW5poqH6_QXU8-W8DFMB42Biot1OJgT9icJp4FY2xDLH86Dzen24tvIyHmSTYixdinpc8=w2400)
 
 ### Dining at Apotek
@@ -84,11 +85,16 @@ The sunrise was short but beautiful. I must say horseback riding didn't feel nat
 
 ### Black Lava Caving
 
-After the horseback excursion, we descended into the Black Lava caves, which were really cool though next time I want to visit the ice caves.
+![Gear Check](https://lh3.googleusercontent.com/It4VB7cTjaSDRZSqNpEe5kQhcvEv904uD-JLaci4ETbACu07xMhSPuaJy32a44SmEZOqbtgvM7y4hEG2lTQ37nOMF78zn-bJStwHWk_YfwRbGt4jh_9wioM0iXyoNVyxy8ywzOQzkfA=w2400)
+
+After the horseback excursion, we descended into the Black Lava caves, which were really cool though next time I want to visit the ice caves. In retrospect, I'm not quite sure how we did certain parts of the tour. For instance, there were some highly claustrophic moments whre we basically laid on our backs with our arms and legs spread out like a starfish. We then crawled while laying on our back from one area of the cave to the other. Would I do it again, with a tour definitely. While I'm watching a movie like _The Descent_, eehhh.
+
+![Our Instructor](https://lh3.googleusercontent.com/idxGODa1tuwEculeaVFyTC7ALNy0aGTOeOZdEoCb2-18V_UjBGkQFw_e7BgeJHCzDgb_iU02f9gye4a7tm7ySh9WWSIABHluWXlmmDarhdJklQXPAl_6B5IdRR3CYqRt1xnSBHxenOg=w2400)
 
 ![Leaving the Caves](https://media.giphy.com/media/5bkHNfuZ9ykXB12Oom/giphy.gif)
 
 ### The truly BLUE lagoon
+
 Our final day was spent at the Blue Lagoon. We didn't have the chance to go to any other hot springs while we were in town. 
 I'd definitely try more of them if we visited again in the summer! We arrived at 8AM and it was pretty sparse in the huge lagoon,
 as the sun began to rise it got crowded. The entire morning it was raining and snowing, but the water was a warm 100°F. 
