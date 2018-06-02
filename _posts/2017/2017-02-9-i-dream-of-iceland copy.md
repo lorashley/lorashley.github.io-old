@@ -15,22 +15,34 @@ We got in the night before from London, but it was practically midnight before w
 to Paris. Honestly, London & Paris was 5 days of no sleep. Fast-forward to January 19th, we woke up at the crack of dawn 
 (figuratively, as dawn wasn't until 10AM in Iceland), to go **snorkeling**!
 
+![Driving around](https://media.giphy.com/media/7SQZKwpx1VVtRXENvj/giphy.gif)
+
+Transportation Note: We rented a car, which I _highly_ recommend. It was so easy to get around Iceland and opened up a lot of options for us. It also saves money on tours that would cost you. If you never have driven in snow, this might be a challenge for you in the winter, but we found the conditions to not be as bad as we have faced in New England.
+
 ### Snorkeling through Silfra Fissure
 
 ![Snorkeling Iceland Silfra Fissure](https://lh3.googleusercontent.com/TckS5Y828Ki6qC6xHrUs9SfPNp469R6F7pDMx_bfX4zbHA7OphlwpJatl9SWfls8hJSxlmGl3W24mvoA2g0taYR2hgUtpHQmHK5h5ARZmKRxbynsUeG0gr_1Vb6UhjkaszRsI2Xi7xk=w2400)
 
 This day was probably the coldest I've ever been in my life. The water stays at 35°F year-round. It was about 32°F outside that day.
-Honestly, the water wasn't so bad since it was so cold outside. My hands and feet were numb, but wrapped in the suit I waddled and felt like a penguin.
-The water was so clear and fresh, coming straight from the glaciers. 
-Getting out of the dry-suit, that was an experience on it's own, probably the hardest part.
-<img alt="rotten egg showers iceland" src="http://kraum.is/wp-content/uploads/sites/6/2015/02/3729_164427890347591_91706224_n.jpg" style="float: right;" width="200">
+Honestly, the water wasn't so bad since it was so cold outside. My hands and feet were numb, but wrapped in the suit I waddled and felt like a penguin. The water was so clear and fresh, coming straight from the glaciers. Getting out of the dry-suit, that was an experience on it's own, probably the hardest part.
+
+
 
 We celebrated our successful adventure with bread bowls and beer in Reykjavik. 
 
+### Exploring Reykjavik and Reykjanes
+
 Exploring Reykjavik and the surrounding areas for day two. It may sound gross but I adored this postcard because it is SO true.
-A little Icelandic lesson - the cold and warm water sources are different. The cold water is from the glacial runoff water, it is
-extremely clean so don't bother buying drinking water in Iceland. The warm water, comes from the geothermal waters which smell of
-the sulfur (rotten eggs!).
+
+<img alt="rotten egg showers iceland" src="http://kraum.is/wp-content/uploads/sites/6/2015/02/3729_164427890347591_91706224_n.jpg" style="float: right;" width="200">
+
+A little Icelandic lesson - the cold and warm water sources are different. The cold water is from the glacial runoff water, it is extremely clean so don't bother buying drinking water in Iceland. The warm water, comes from the geothermal waters which smell of the sulfur (rotten eggs!).
+
+Also, as far as Iceland cheap eats, nothing is cheap. Except, this hot dog, and it's a damn good one.
+
+![Icelandic Hot Dog](https://lh3.googleusercontent.com/eSf8xTpJE7jDwELbb3KgxJbz51dUNNNc2d4OVoqXlbWgG9iFeUu_zFcjLxSL_2R-nbBfWuUqMbU1Dd64eKATIagfaOHm7YPZ16FdhEcuaceWBbExL8glvCCvCb9yTvQJ2GH9E1JVciA=w2400)
+
+I think the stalls are open all the time and everyone pops over for a hotdog or two. I can't remember if its a local thing or just something they adapted from America. They have their own set of fixings, which we loved.
 
 ![Reykjanes Peninsula](https://lh3.googleusercontent.com/r8kyyaT_QIEBK_Uw3HGruOd6VdZ_3jQreNdWdI3XztpcD5V_qj8I62xEGTzvsjh0EQY1FxGQuK41h8GHS8l1yRLYa9WdcjmJ75MMaHL3OSksnCc-7Ss0h2RfIsfLWuxpCzxt8XsXyRk=w2400)
 
@@ -49,6 +61,7 @@ That night we went Aurora hunting. It was a bit cloudy and after a few hours, we
 tour guide was so charming with his Icelandic tales. After a few hours we called it a night, we were exhuasted.         
 
 ### Golden Circle Day Trip
+
 With our next full day ahead we toured the Golden circle, visiting Gulfoss, the geysirs, and the volcanic crater lake Kerið. We planned on doing a hike in 
 Hveragerdi, but the weather was not on our side. We still drove through the hot spring town, which we would visit for sure in the summer. 
 Little did we know we would end up here again.
