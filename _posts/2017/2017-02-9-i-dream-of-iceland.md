@@ -34,7 +34,7 @@ We celebrated our successful adventure with bread bowls and beer in Reykjavik.
 
 Exploring Reykjavik and the surrounding areas for day two. It may sound gross but I adored this postcard because it is SO true.
 
-<img alt="rotten egg showers iceland" src="http://kraum.is/wp-content/uploads/sites/6/2015/02/3729_164427890347591_91706224_n.jpg" style="float: right;" width="200">
+<a href='https://photos.google.com/share/AF1QipMvd1NVPj35Xneh1kdR5Vxj002AtnlhOBEFU9GQFbwIP7EE5PM-V0x2tIz_k8Wlyg?key=b3JJRHJ1NHRzaWVtT01qRzMtZk42VzBFdzFmN1Z3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/l307pUQjetYBfTmm8zAV68Fd9Mj92VfNe3oEeBlfnomAAQbie-6zxKdzGQUOTaJ3RDiAnWF3FrAr2aS22YJIWDOeV3kHZQbIctDXbaMQ4XeK_4ssi3-SHl9dTKznzpKzwwLIccsRsb4=w2400' /></a>
 
 A little Icelandic lesson - the cold and warm water sources are different. The cold water is from the glacial runoff water, it is extremely clean so don't bother buying drinking water in Iceland. The warm water, comes from the geothermal waters which smell of the sulfur (rotten eggs!).
 
