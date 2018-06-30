@@ -42,16 +42,15 @@ layout: default
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
-              
+
               {% if post.image %}
                     <div class="cover">
-                        {% include new-post-tag.html date=post.date %}
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                             <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
                         </a>
                     </div>
                 {% endif %}
-              
+
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
