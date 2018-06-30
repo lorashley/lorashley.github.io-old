@@ -47,6 +47,7 @@ layout: default
                     <div class="cover">
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                             <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
+                            {{ post.image }}
                         </a>
                     </div>
                 {% endif %}
