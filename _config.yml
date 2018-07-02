@@ -2,11 +2,11 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Site settings
 title: "Lauren Ashley"
-description: > # this means to ignore newlines until "email:"
-   Lifestyle, Travel, Rituals
+description: Lifestyle, Travel, Rituals
 
 email: lor.ashley@gmail.com
 #blog logo
@@ -16,8 +16,8 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Lauren Ramgattie'
-author: 'Lauren Ramgattie'
+name: 'Lauren Ashley Ramgattie'
+author: 'Lauren Ashley'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -47,7 +47,7 @@ social:
     share_url:
     share_title:
     share_link:
-    
+
   - icon:	instagram
     url:	https://instagram.com/pawsandwander
     desc:	Follow me on IG
