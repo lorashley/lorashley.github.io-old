@@ -41,18 +41,18 @@ layout: default
       {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
-            <header class="post-header">
+            <center><header class="post-header">
 
               {% if post.image %}
                     <div class="cover">
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
-                          <center><img src="{{ post.image }}" data-url="{{ post.image }}" class="preload" width="600px"></center>
+                          <img src="{{ post.image }}" data-url="{{ post.image }}" class="preload" width="600px">
                         </a>
                     </div>
                 {% endif %}
 
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
+            </header></center>
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
@@ -72,16 +72,16 @@ layout: default
       {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
-            <header class="post-header">
+            <center><header class="post-header">
             {% if post.image %}
                     <div class="cover">
                         <a href="{{ post.url | prepend: site.baseurl }}">
-                            <center><img src="{{ post.image }}" data-url="{{ post.image }}" class="preload" width="600px"></center>
+                            <img src="{{ post.image }}" data-url="{{ post.image }}" class="preload" width="600px">
                         </a>
                     </div>
             {% endif %}
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
+            </header></center>
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
             </section>
