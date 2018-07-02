@@ -46,8 +46,7 @@ layout: default
               {% if post.image %}
                     <div class="cover">
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
-                            <img src="{{ post.image }}" data-url="{{ post.image }}" class="preload"
-
+                          <img src="{{ post.image }}" data-url="{{ post.image }}" class="preload" width="500px">
                         </a>
                     </div>
                 {% endif %}
@@ -77,9 +76,7 @@ layout: default
             {% if post.image %}
                     <div class="cover">
                         <a href="{{ post.url | prepend: site.baseurl }}">
-                            <div class="teaserimage-image">
-                              <img src="{{ post.image }}" data-url="{{ post.image }}" class="preload">
-                            </div>
+                              <img src="{{ post.image }}" data-url="{{ post.image }}" class="preload" width="500px">
                         </a>
                     </div>
             {% endif %}
