@@ -1,11 +1,10 @@
 ---
 layout: post
-title: My microblading experience! 
+title: My microblading experience!
 categories: ['beauty']
 comments: true
 tags: microblading cosmetic-tattoo brows beauty
-image:
-  feature: http://i.imgur.com/bxZE6tX.jpg
+image: http://i.imgur.com/bxZE6tX.jpg
 ---
 
 Microblading was something I've wanted for a while. I researched the process heavily, but there were still surprises in the outcome.
@@ -17,7 +16,7 @@ This is a before and after at the time of my first microblading session.
 <!--more-->
 
 ## The Process
-I arrived for my session and my artist worked with my facial structure, current eyebrow shape, and eyebrow desires to draw on eyebrows to my face. 
+I arrived for my session and my artist worked with my facial structure, current eyebrow shape, and eyebrow desires to draw on eyebrows to my face.
 Once I was happy with them she put on the numbing cream and we waited about 10-15 minutes for it to sink it. She began the tattooing which didn't hurt at first.
 I was sure that it was going to be a breeze and **then** I felt the pain. Maybe the numbing cream was wearing off or maybe I was sensitive. Regardless, for me
 the pain felt like eyebrow threading. Eyebrow threading is my least favorite thing, I want to cry every time. I could wax my eyebrows for days but back off with
@@ -26,9 +25,9 @@ originally she learned in China before moving back to America and microblading w
 
 ## Healing (Round One)
 Over the next two weeks, the brows heal. **Pigment fades** and they do not look as flawless as when you first got them.
-This is why you have touchups. 
+This is why you have touchups.
 
-Before the peeling I was taking selfies non-stop and basking in my fleekness. I did notice that they seemed dissimilar, but knew this would all be addressed in the touchup. 
+Before the peeling I was taking selfies non-stop and basking in my fleekness. I did notice that they seemed dissimilar, but knew this would all be addressed in the touchup.
 
 <center><figure>
   <img alt="microblading 1 day later" src="http://i.imgur.com/98osmAP.jpg" width="300">
@@ -55,4 +54,4 @@ before.
 </figure>
 </center>
 
-My touchup is in a week. I'll post more photos after the touchups. 
+My touchup is in a week. I'll post more photos after the touchups.

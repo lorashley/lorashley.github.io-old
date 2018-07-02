@@ -7,7 +7,7 @@ comments: true
 image: https://lh3.googleusercontent.com/H-fEucBuuv_Ikhm5uI4um72IrreegJEdn28r43w4Epl8xQTtgyyLXXty1mMrUecYKcCaX4D2dmE9Fkz8aaRztJM6mxeJWo5_iXRHCeDou9UxnBDJNiedWU8aSux7Nv7Vxap-6py9nwI=w2400
 ---
 
-Packing for my first trip to Asia was a somewhat new experience for me, a lifelong overpacker. The first thing I did in preparation was get a hiking backpack that would be suitiable for travel. To be honest, I probably wanted to pretend that I was backpacking through asia. We're not staying in any hostels, but we are visiting about 4 different airbnbs and taking 3 flights within Asia in addition to the 40 hour round trip dedication to get there. It's a lot of movement, I think a backpack will definitely help my general hot mess self.
+Packing for my first trip to Asia was a somewhat new experience for me, a lifelong overpacker. The first thing I did in preparation was get a hiking backpack that would be suitable for travel. To be honest, I probably wanted to pretend that I was backpacking through Asia. We're not staying in any hostels, but we are visiting about 4 different airbnbs and taking 3 flights within Asia in addition to the 40 hour round trip dedication to get there. It's a lot of movement, I think a backpack will definitely help my general hot mess self.
 
 <center><a data-pin-do="embedBoard" data-pin-board-width="500" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/lorashley/2-g-i-r-l-s-1-t-r-e-k/p-a-c-k/"></a>
 </center>
