@@ -11,5 +11,5 @@ To say that I fell in love with my first trip to Barbados would be an understate
 
 _Browse my travel board_
 
-<center><a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/lorashley/t-r-a-v-e-l/b-a-r-b-a-d-o-s"></a>
+<center><a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/lorashley/t-r-a-v-e-l/b-a-r-b-a-d-o-s/"></a>
 </center>
