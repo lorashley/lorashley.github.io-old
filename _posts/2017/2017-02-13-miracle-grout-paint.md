@@ -4,7 +4,7 @@ title: Tile Countertop Refresh - Miracle Grout Paint
 categories: ['project']
 tags: diy project
 comments: true
-image: http://i.imgur.com/PT6WinB.jpg
+image: https://i.imgur.com/PT6WinB.jpg
 ---
 
 So it all started with my office and closet makeover and me working towards a more minimalist life. Thus far this year, I have been thoughtful in my words, actions, and lifestyle.
