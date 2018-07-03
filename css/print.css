@@ -24,6 +24,6 @@ page-break-after:never
 
 /*Google fonts*/
 
-.blog-title {
+.blog-header .blog-title {
   font-family: 'Meddon', cursive;
 }
