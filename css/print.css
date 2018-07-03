@@ -26,4 +26,5 @@ page-break-after:never
 
 .blog-header .blog-title {
   font-family: 'Meddon', cursive;
+  font-size: 12px;
 }
