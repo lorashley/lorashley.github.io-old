@@ -14,6 +14,13 @@ $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 $font-cursive: Meddon, cursive
 
+
+$color-header: #EDAFB8
+$color-secondary: #B0C4B1
+$color-dark: #4A5759
+$color-light: #F7E1D7
+$color-neutral: #DEDBD2
+
 @mixin respond-to($breakpoint)
   @media only screen and (max-width: $breakpoint + px)
     @content
@@ -110,7 +117,7 @@ body
     outline: 0
     line-height: 50px
     word-break: break-word
-    color: #333
+    color: $color-header
   .blog-description
     margin: 0 0 20px
     padding: 0 $rs*2
@@ -145,13 +152,14 @@ body
       letter-spacing: -0.02em
       font-weight: 700
       font-style: normal
+      font-family: $font-cursive
       display: block
       font-size: 28px
       line-height: 1.1
       margin: 0 0
       a
         text-decoration: none
-        color: #333332
+        color: $color-secondary
         &:hover
           text-decoration: none
     .post-excerpt
