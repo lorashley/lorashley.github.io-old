@@ -24,6 +24,10 @@ page-break-after:never
 
 /*Google fonts*/
 
+body {
+  font-family: 'Meddon', cursive;
+}
+
 .blog-header .blog-title {
   font-family: 'Meddon', cursive;
   font-size: 12px;
