@@ -21,19 +21,3 @@ page-break-after:never
 .subscribe icon-feed{
   display:none;
 }
-
-/*Google fonts*/
-
-body {
-  font-family: 'Meddon', cursive;
-}
-
-.blog-header .blog-title {
-  font-family: 'Meddon', cursive;
-  font-size: 12px;
-}
-
-h1 {
-  font-family: 'Meddon', cursive;
-  font-size: 12px;
-}
