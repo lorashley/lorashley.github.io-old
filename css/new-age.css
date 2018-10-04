@@ -20,7 +20,7 @@ a {
   transition: all .35s;
 }
 
-a:hover, a:focus {
+a:hover {
   background-color: #3f704d;
   color: #fff;
 }
