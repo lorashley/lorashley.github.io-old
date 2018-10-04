@@ -53,7 +53,7 @@
 /*the white line end */
 .timeline ol li:last-child
 {
-  width: 280px;
+  width: 250px;
 }
 
 .timeline ol li:not(:first-child) {
